@@ -1,16 +1,10 @@
----
-lab:
-    title: 'Explore AI speech'
-    description: 'Use AI to explore speech-to-text and text-to-speech capabilities with a generative AI model.'
----
-
-# Explore AI speech
+# Lab: Explore AI speech
 
 In this exercise, you'll interact with a generative AI model using speech. The goal of this exercise is to explore speech-to-text (STT) and text-to-speech (TTS) functionality with a generative AI model.
 
 This exercise should take approximately **15** minutes to complete.
 
-## Open the Speech Playground app
+## Task 1: Open the Speech Playground app
 
 Let's start by chatting with a generative AI model. In this exercise, we'll use a browser-based application to chat with the **Microsoft Phi 3 Mini model**; a small language model that is useful for general chat solutions in low bandwidth scenarios. The app also uses Web Speech APIs for speech recognition and synthesis.
 
@@ -25,7 +19,7 @@ Let's start by chatting with a generative AI model. In this exercise, we'll use 
 
    ![Screenshot of the Speech Playground app.](./media/speech-01.png)
 
-## Select a voice
+## Task 2: Select a voice
 
 Text-to-speech solutions use *voices* to control the cadence, pronunciation, timbre, and other aspects of generated speech. The available voices depend on your browser and operating system, and can include *local* voices installed in the operating system as well as *online* voices available for your browser.
 
@@ -38,7 +32,7 @@ Text-to-speech solutions use *voices* to control the cadence, pronunciation, tim
 
 1. When you have selected the voice you want to use, use the **Apply changes** button to activate it.
 
-## Use speech to interact with the model
+## Task 3: Use speech to interact with the model
 
 The app supports both speech recognition and speech synthesis, enabling you to have a voice-based conversation with the model.
 

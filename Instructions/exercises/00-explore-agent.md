@@ -1,22 +1,28 @@
----
-lab:
-    title: 'Explore a simple AI agent'
-    description: 'Use an AI agent to chat about AI concepts.'
----
-
 # Explore a simple AI agent
 
-In this exercise, you'll use a simple AI agent named **Ask Andrew** to chat about AI concepts. The goal of this exercise is not to learn how to *build* an AI agent, but to familiarize yourself with some common features of AI solutions - in particular AI agents that support chat-based interactivity.
+### Please be aware that no Lab VM is provided for this exercise. You will need to complete the lab on your personal computer.
 
-This exercise should take approximately **15** minutes to complete.
+## Lab Overview
 
-## Open the Ask Andrew AI agent
+In this lab, you'll use a simple AI agent named **Ask Andrew** to chat about AI concepts. The goal of this exercise is not to learn how to *build* an AI agent, but to familiarize yourself with some common features of AI solutions - in particular AI agents that support chat-based interactivity.
+
+## Lab Objectives
+
+In this lab, you will complete the following tasks:
+
++ Task 1: Open the Ask Andrew AI agent
++ Task 2: Chat with the model
++ Task 3:  Understand the architecture
+
+## Estimated timing: 15 Minutes
+
+## Task 1: Open the Ask Andrew AI agent
 
 **Ask Andrew** is a simple example of an AI agent that provides a chat interface for learning about AI concepts.
 
 > **Note**: Ask Andrew is provided solely as a simple example of a chat-based agent for this exercise. It is not a component of the Microsoft Learn or AI Skills Navigator platform, nor is it a supported Microsoft product or service. The agent uses the **Microsoft Phi 3 Mini** small language model to interpret and respond to prompts. The model runs in your browser, on your local computer; so performance may vary depending on the available memory in your computer and your network bandwidth to download the model. If WebLLM models are not supported in your browser, or you prefer not to use the model, a *Simple mode* with reduced functionality can be used to search an in-browser index for answers without using generative AI. After opening the app, use the **About** button in the chat area to find out more.
 
-1. In a web browser, open the **[Ask Andrew](https://aka.ms/ask-andrew){:target="_blank"}** at `https://aka.ms/ask-andrew`.
+1. In a web browser, open the **[Ask Andrew](https://aka.ms/ask-andrew)** at `https://aka.ms/ask-andrew`.
 1. Wait for the model to download and initialize.
 
    ![Screenshot of the Ask Andrew loading page.](./media/ask-andrew-01.png)
@@ -25,7 +31,7 @@ This exercise should take approximately **15** minutes to complete.
 
     > **Tip**: If the model fails to load, the app will fallback to *Simple mode*. This may happen if your computer does not have a GPU, or if WebGPU support is disabled in your browser. When using an ARM64 based computer, you may need to enable WebGPU support in your browser's `edge://flags` or `chrome://flags` page and restart the browser. If you choose to do so, disable it again when you have completed the exercise.
 
-## Chat with the model
+## Task 2: Chat with the model
 
 1. When the model is ready, use the chat interface to enter questions related to AI concepts; and review the responses returned by the agent.
 
@@ -37,7 +43,7 @@ This exercise should take approximately **15** minutes to complete.
     - When using *AI mode*, you can use follow-up questions - the model will "remember" the conversation context. In *Simple mode*, each prompt creates a new interaction.
     - Responses from AI may not always be accurate. In this application, the responses are *grounded* in a knowledge base; but generative AI can still make mistakes.
 
-## Understand the architecture
+## Task 3: Understand the architecture
 
 So how does Ask Andrew work?
 
@@ -62,4 +68,4 @@ This architecture reflects how many production-level AI agents are designed. It'
 
 ## Summary
 
-In this exercise, you explored a sample AI agent. The agent's functionality is limited, and does not reflect the kind of performance or capabilities you can expect in a production quality agent; but it should serve to show a simple example of how AI can support chat-based interactions.
+In this lab, you explored a sample AI agent. The agent's functionality is limited, and does not reflect the kind of performance or capabilities you can expect in a production quality agent; but it should serve to show a simple example of how AI can support chat-based interactions.

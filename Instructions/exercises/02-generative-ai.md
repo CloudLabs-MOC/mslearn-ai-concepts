@@ -1,16 +1,10 @@
----
-lab:
-    title: 'Explore generative AI'
-    description: 'Use a chat playground to interact with a generative AI model'
----
-
-# Explore generative AI
+# Lab: Explore generative AI
 
 In this exercise, you'll use a chat playground to interact with a generative AI model. The goal of this exercise is to explore the effect of system prompts, model parameters, and grounding models with data.
 
 This exercise should take approximately **15** minutes to complete.
 
-## Chat with a model
+## Task 1: Chat with a model
 
 Let's start by using a chat interface to submit prompts to a generative AI model. In this exercise, we'll use the **Microsoft Phi 3 Mini model**; a small language model that is useful for general chat solutions in low bandwidth scenarios.
 
@@ -32,7 +26,7 @@ Let's start by using a chat interface to submit prompts to a generative AI model
 1. At the top of the chat pane, use the **New chat** (&#128172;) button to restart the conversation. This removes all conversation history.
 1. Enter a new prompt, such as `What was ENIAC?` and view the response.
 
-## Experiment with system prompts
+## Task 2: Experiment with system prompts
 
 A system prompt is used to provide the model with an overall context for its responses. You can use the system prompt to provide guidelines about format, style, and constraints about what the model should and should not include in its responses.
 
@@ -44,7 +38,7 @@ A system prompt is used to provide the model with an overall context for its res
 
 1. When you have finished experimenting, change the system prompt back to `You are an AI assistant that helps people find information.`
 
-## Experiment with model parameters
+## Task 3: Experiment with model parameters
 
 Model parameters control how the model works, and can be useful for restricting the size of its responses (measured in *tokens*) and controlling how "creative" its responses can be.
 
@@ -59,7 +53,7 @@ Model parameters control how the model works, and can be useful for restricting 
 
 1. When you've finished experimenting, reset the parameters to their default values.
 
-## Ground responses with data
+## Task 4: Ground responses with data
 
 Generative AI is the foundation for *agentic* solutions; in which AI agents can assist you and act on your behalf. Agents are more than general purpose chat apps. They usually have a particular focus, and use knowledge and tools to perform their duties.
 

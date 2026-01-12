@@ -1,8 +1,25 @@
 # Lab: Explore text analytics
 
-In this exercise, you'll use AI natural language processing functionality to analyze text. The goal of this exercise is to explore common applications of text analysis techniques.
+### Please be aware that no Lab VM is provided for this lab. You will need to complete the lab on your personal computer.
 
-This exercise should take approximately **15** minutes to complete.
+## Lab Overview
+
+In this lab, you'll use AI natural language processing functionality to analyze text. The goal of this exercise is to explore common applications of text analysis techniques.
+
+
+## Lab Objectives
+
+In this lab, you will complete the following tasks:
+
++ Task 1: Prepare for text analysis
++ Task 2: Analyze sentiment
++ Task 3: Extract key phrases
++ Task 4: Extract named entities
++ Task 5: Summarize text
+  
+
+### Estimated timing: 15 Minutes
+
 
 ## Task 1: Prepare for text analysis
 
@@ -77,6 +94,6 @@ Summarization is a way to distill the main points in a document into a shorter a
 
 ## Summary
 
-In this exercise, you explored the use of a AI to analyze text, using NLP functionality in a browser-based app.
+In this lab, you explored the use of a AI to analyze text, using NLP functionality in a browser-based app.
 
 While the statistical techniques in this exercise are sufficient to demonstrate the concepts, to perform high-quality language analytics at scale, you should use a cloud-based AI platform like Microsoft Foundry. Microsoft Foundry a wide range of language models, some of which are optimized for specific language processing tasks. Additionally, Azure Language in Microsoft Foundry tools offers a specialized service with APIs for common text analytics tasks.

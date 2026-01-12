@@ -1,16 +1,10 @@
----
-lab:
-    title: 'Explore information extraction'
-    description: 'Use OCR and generative AI to extract information from documents.'
----
-
-# Explore information extraction
+# Lab: Explore information extraction
 
 In this exercise, you'll use optical character recognition (OCR) and generative AI to extract information from receipts. The goal of this exercise is to explore for yourself how information extraction from documents involves an OCR process to detect text, and a field extraction stage to map specific text strings to field values.
 
 This exercise should take approximately **15** minutes to complete.
 
-## Extract information from receipts
+## Task 1: Extract information from receipts
 
 Suppose you need to extract data fields from scanned receipts to help automate an expense claim solution. You can use an AI technique called optical character recognition (OCR) to identify text and its location in images. By combining this text extraction with a generative AI model, you can then apply semantic analysis to associate individual text values with specific data fields - such as names, phone numbers, dates, amounts, and so on.
 

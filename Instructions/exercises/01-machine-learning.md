@@ -1,4 +1,4 @@
-# Explore Machine Learning
+# Lab: Explore Machine Learning
 
 In this exercise, you'll use a lightweight application to train and evaluate machine learning models. The goal of this exercise is to experience the steps involved in training different kinds of machine learning model and reviewing model-specific metrics. 
 
@@ -11,7 +11,7 @@ In this exercise, you'll use data files to train multiple types of machine learn
 1. Download **[ml-data.zip](https://aka.ms/mslearn-ai-data){:target="_blank"}** from `https://aka.ms/mslearn-ai-data` to your local computer.
 1. Extract the downloaded archive in a local folder to see the files it contains. These files contain data suitable for training machine learning models.
 
-## Train a regression model
+## Task 1: Train a regression model
 
 Let's start by training  regression model, which predicts a numeric value. In this exercise, we'll use a dataset of historic sales to predict demand for ice cream cones on a given day, based on seasonal and weather-related features.
 
@@ -51,7 +51,7 @@ Let's start by training  regression model, which predicts a numeric value. In th
     | Temperature | 72.3 | 55.8 |
     | Rainfall | 0.01 | 0.56 |
 
-## Train a classification model
+## Task 2: Train a classification model
 
 Now let's train a classification model to predict which of three species a penguin is (0: Adelie, 1: Gentoo, or 2: Chinstrap), based on its measurements.
 
@@ -79,7 +79,7 @@ Now let's train a classification model to predict which of three species a pengu
     | FlipperLength | 219 | 189 |
     | BodyMass | 4753 | 3645 |
 
-## Train a clustering model
+## Task 3: Train a clustering model
 
 Finally, let's train a clustering model to separate customers into groups based on their spending habits. Specifically, we'll consider their purchase *frequency* (how often they make a purchase), and their average *spend* per purchase.
 

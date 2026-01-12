@@ -1,14 +1,28 @@
 # Lab: Explore Machine Learning
 
-In this exercise, you'll use a lightweight application to train and evaluate machine learning models. The goal of this exercise is to experience the steps involved in training different kinds of machine learning model and reviewing model-specific metrics. 
+### Please be aware that no Lab VM is provided for this lab. You will need to complete the lab on your personal computer.
 
-This exercise should take approximately **15** minutes to complete.
+## Lab Overview
+
+In this lab, you'll use a lightweight application to train and evaluate machine learning models. The goal of this exercise is to experience the steps involved in training different kinds of machine learning model and reviewing model-specific metrics. 
+
+## Lab Objectives
+
+In this lab, you will complete the following tasks:
+
++ Task 1: Train a regression model
++ Task 2: Train a classification model
++ Task 3: Train a clustering model
+
+
+## Lab prerequisite
 
 ## Download data
 
-In this exercise, you'll use data files to train multiple types of machine learning model.
+In this lab, you'll use data files to train multiple types of machine learning model.
 
 1. Download **[ml-data.zip](https://aka.ms/mslearn-ai-data){:target="_blank"}** from `https://aka.ms/mslearn-ai-data` to your local computer.
+2. 
 1. Extract the downloaded archive in a local folder to see the files it contains. These files contain data suitable for training machine learning models.
 
 ## Task 1: Train a regression model

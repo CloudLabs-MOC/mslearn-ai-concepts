@@ -1,8 +1,21 @@
 # Lab: Explore computer vision
+### Please be aware that no Lab VM is provided for this lab. You will need to complete the lab on your personal computer.
 
-In this exercise, you'll use a chat playground to interact with a generative AI solution that can analyze and interpret images. The goal of this exercise is to explore a common pattern for combining text and visual input in a prompt for a generative AI model.
+## Lab Overview
 
-This exercise should take approximately **15** minutes to complete.
+
+In this lab, you'll use a chat playground to interact with a generative AI solution that can analyze and interpret images. The goal of this exercise is to explore a common pattern for combining text and visual input in a prompt for a generative AI model.
+
+
+## Lab Objectives
+
+In this lab, you will complete the following tasks:
+
++ Task 1: Prepare for image-based chat
+
+
+### Estimated timing: 15 Minutes
+
 
 ## Task 1: Prepare for image-based chat
 
@@ -42,6 +55,6 @@ In this exercise you use a generative AI model in a chat playground to respond t
 
 ## Summary
 
-In this exercise, you explored the use of computer vision with a generative AI model in a chat playground. 
+In this lab, you explored the use of computer vision with a generative AI model in a chat playground. 
 
 The app used in this exercise is based on a simplified version of the chat playground in the Microsoft Foundry portal. Microsoft Foundry supports a range of multimodal models that can accept combined image and text input, enabling significantly more complex image interpretation than this simple example. Additionally, you can use the Azure Content Understanding tool to analyze images.

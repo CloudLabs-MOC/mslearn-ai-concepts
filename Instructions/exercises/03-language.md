@@ -1,23 +1,17 @@
----
-lab:
-    title: 'Explore AI text analysis'
-    description: 'Use AI to analyze text.'
----
-
-# Explore text analytics
+# Lab: Explore text analytics
 
 In this exercise, you'll use AI natural language processing functionality to analyze text. The goal of this exercise is to explore common applications of text analysis techniques.
 
 This exercise should take approximately **15** minutes to complete.
 
-## Prepare for text analysis
+## Task 1: Prepare for text analysis
 
 We'll use a browser-based application that's based on a simplified subset of the text analysis capabilities of the Microsoft Foundry language playground.
 
 1. Download and extract **[text.zip](https://aka.ms/ai-text){:target="_blank"}** at `https://aka.ms/ai-text`. This archive contains multiple text documents that you'll use in this exercise.
 1. In a web browser, open the **[Text Analyzer](https://aka.ms/text-analyzer){:target="_blank"}** at `https://aka.ms/text-analyzer`. This application provides the text analysis functionality you'll use.
 
-## Analyze sentiment
+## Task 2: Analyze sentiment
 
 Sentiment analysis is a common NLP task. It's used to determine whether text conveys a positive, neutral or negative sentiment; which makes it useful for categorizing reviews, social media posts, and other subjective documents.
 
@@ -33,7 +27,7 @@ Sentiment analysis is a common NLP task. It's used to determine whether text con
 
     You can experiment further by uploading your own text files or by typing text into the Text Analyzer interface. The results may vary due to the simplified implementation of sentiment anslysis in this lightweight app.
 
-## Extract key phrases
+## Task 3: Extract key phrases
 
 Key phrase extraction can be a useful first step in identifying the main topics in a document.
 
@@ -49,7 +43,7 @@ Key phrase extraction can be a useful first step in identifying the main topics 
 
     You can experiment further by uploading your own text files or by typing text into the Text Analyzer interface. Again, the results may vary.
 
-## Extract named entities
+## Task 4: Extract named entities
 
 Named entities are the people, places, dates, and other important items mentioned in text.
 
@@ -65,7 +59,7 @@ Named entities are the people, places, dates, and other important items mentione
 
     You can experiment further by uploading your own text files or by typing text into the Text Analyzer interface.
 
-## Summarize text
+## Task 5: Summarize text
 
 Summarization is a way to distill the main points in a document into a shorter amount of text.
 

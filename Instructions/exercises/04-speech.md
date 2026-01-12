@@ -1,8 +1,23 @@
 # Lab: Explore AI speech
 
-In this exercise, you'll interact with a generative AI model using speech. The goal of this exercise is to explore speech-to-text (STT) and text-to-speech (TTS) functionality with a generative AI model.
+### Please be aware that no Lab VM is provided for this lab. You will need to complete the lab on your personal computer.
 
-This exercise should take approximately **15** minutes to complete.
+## Lab Overview
+
+In this lab, you'll interact with a generative AI model using speech. The goal of this lab is to explore speech-to-text (STT) and text-to-speech (TTS) functionality with a generative AI model.
+
+
+## Lab Objectives
+
+In this lab, you will complete the following tasks:
+
++ Task 1: Open the Speech Playground app
++ Task 2: Select a voice
++ Task 3: Use speech to interact with the model
+
+
+### Estimated timing: 15 Minutes
+
 
 ## Task 1: Open the Speech Playground app
 
@@ -56,6 +71,6 @@ The app supports both speech recognition and speech synthesis, enabling you to h
 
 ## Summary
 
-In this exercise, you explored the use of speech-to-text and text-to-speech with a generative AI model in a simple playground app. 
+In this lab, you explored the use of speech-to-text and text-to-speech with a generative AI model in a simple playground app. 
 
 The app used in this lab is based on a simplified version of Azure Speech in Foundry tools; and more specifically on the playground for *Azure Speech Voice Live*; a service used to build real-time voice-based agents. While the app in this lab is limited to "single-turn" spoken interactions, the Azure Speech Voice Live capabilities in Microsoft Foundry include multi-turn real-time conversations with support for interruptions and background noise suppression.

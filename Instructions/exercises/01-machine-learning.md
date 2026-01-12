@@ -14,6 +14,7 @@ In this lab, you will complete the following tasks:
 + Task 2: Train a classification model
 + Task 3: Train a clustering model
 
+### Estimated timing: 15 Minutes
 
 ## Lab prerequisite
 
@@ -117,7 +118,7 @@ Finally, let's train a clustering model to separate customers into groups based 
 
 ## Summary
 
-In this exercise, you trained three different kinds of machine learning model, reviewing relevant evaluation metrics for each model and using them to predict new values.
+In this lab, you trained three different kinds of machine learning model, reviewing relevant evaluation metrics for each model and using them to predict new values.
 
 While the tool you used in this exercise is basic, it uses tried and tested algorithms and the Scikit-Learn framework for Python to train and evaluate machine learning models based on data. You can use it with your own data if you want to explore further.
 

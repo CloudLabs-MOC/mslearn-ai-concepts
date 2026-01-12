@@ -1,6 +1,6 @@
 # Explore a simple AI agent
 
-### Please be aware that no Lab VM is provided for this exercise. You will need to complete the lab on your personal computer.
+### Please be aware that no Lab VM is provided for this lab. You will need to complete the lab on your personal computer.
 
 ## Lab Overview
 

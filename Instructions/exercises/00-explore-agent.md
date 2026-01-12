@@ -14,7 +14,7 @@ In this lab, you will complete the following tasks:
 + Task 2: Chat with the model
 + Task 3:  Understand the architecture
 
-## Estimated timing: 15 Minutes
+### Estimated timing: 15 Minutes
 
 ## Task 1: Open the Ask Andrew AI agent
 

@@ -1,8 +1,23 @@
 # Lab: Explore information extraction
 
-In this exercise, you'll use optical character recognition (OCR) and generative AI to extract information from receipts. The goal of this exercise is to explore for yourself how information extraction from documents involves an OCR process to detect text, and a field extraction stage to map specific text strings to field values.
+### Please be aware that no Lab VM is provided for this lab. You will need to complete the lab on your personal computer.
+
+## Lab Overview
+
+In this lab, you'll use optical character recognition (OCR) and generative AI to extract information from receipts. The goal of this lab is to explore for yourself how information extraction from documents involves an OCR process to detect text, and a field extraction stage to map specific text strings to field values.
 
 This exercise should take approximately **15** minutes to complete.
+
+
+## Lab Objectives
+
+In this lab, you will complete the following tasks:
+
++ Task 1:  Extract information from receipts
+
+
+### Estimated timing: 15 Minutes
+
 
 ## Task 1: Extract information from receipts
 
@@ -34,6 +49,6 @@ Suppose you need to extract data fields from scanned receipts to help automate a
 
 ## Summary
 
-In this exercise, you explored how AI can be used to extract information from content using a combination of OCR and generative AI.
+In this lab, you explored how AI can be used to extract information from content using a combination of OCR and generative AI.
 
 In Microsoft Foundry, the Content Understanding tool is a multimodal information extraction solution that you can use to analyze documents, images, audio files, and videos.

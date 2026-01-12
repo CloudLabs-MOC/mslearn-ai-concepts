@@ -1,16 +1,10 @@
----
-lab:
-    title: 'Explore computer vision'
-    description: 'Use image analysis with a generative AI model.'
----
-
-# Explore computer vision
+# Lab: Explore computer vision
 
 In this exercise, you'll use a chat playground to interact with a generative AI solution that can analyze and interpret images. The goal of this exercise is to explore a common pattern for combining text and visual input in a prompt for a generative AI model.
 
 This exercise should take approximately **15** minutes to complete.
 
-## Prepare for image-based chat
+## Task 1: Prepare for image-based chat
 
 In this exercise you use a generative AI model in a chat playground to respond to prompts that include image data.
 
